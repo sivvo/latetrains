@@ -45,5 +45,6 @@ func main() {
         sum += i
     }
     fmt.Println(sum)
+    fmt.Println("end of line")
 
 }
